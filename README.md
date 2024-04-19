@@ -1,7 +1,8 @@
 <strong> • Esse é outro projeto de um mini curso da OneBitCode de Python, de automação de dados de uma concessionária de carros de luxo</strong>
 <br> • ("Entrou um novo CEO nessa concessionária e ele queria saber os dados da empresa, mas estava tudo bagunçado na planilha do excel, o 🐍 resolveu esse problema!!") </br> 
 
-#
+
+
 
 <b>ANTES</b>
 
